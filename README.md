@@ -8,3 +8,7 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=22&pause=1000&color=C53EA3BB&multiline=true&width=435&lines=I+am+Dayana+Monta%C3%B1a%2C+Front-end+Developer" alt="Typing SVG" /></a>
+</p>
+
