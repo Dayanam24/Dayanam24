@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://i.pinimg.com/originals/f6/09/fa/f609fa0c82a123e8ed55fad325c5c0a9.gif" width="650px" alt="Diego Rodriguez" />
+    <img src="https://i.pinimg.com/originals/1a/71/58/1a7158689e5ce37e5d78d97c332a003f.gif" width="650px" alt="Diego Rodriguez" />
   </a>
 </p>
 
